@@ -1,4 +1,5 @@
-inquiryId="222416525"
+# ganti inquiryId dengan value yang baru jika tidak tau value yang baru wa gw: 082137268211
+inquiryId="219424679"
 # Yang recode script ini sebelum subscribe channel MR_DARK, gw sumpahin lu ke alam ghoib ;v
 # Udah subs?, scroll ke bawah
 

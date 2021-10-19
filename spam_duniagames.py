@@ -1,4 +1,4 @@
-inquiryId="219424679"
+inquiryId="222416525"
 # Yang recode script ini sebelum subscribe channel MR_DARK, gw sumpahin lu ke alam ghoib ;v
 # Udah subs?, scroll ke bawah
 

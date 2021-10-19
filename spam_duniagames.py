@@ -1,3 +1,4 @@
+inquiryId="219424679"
 # Yang recode script ini sebelum subscribe channel MR_DARK, gw sumpahin lu ke alam ghoib ;v
 # Udah subs?, scroll ke bawah
 
@@ -104,7 +105,7 @@ subs_mr_dark = 1
 # jika terjadi error wa gw ae: 082137268211
 dark={
 "phoneNumber":mr_dark1,
-"inquiryId":219424679
+"inquiryId":inquiryId
 }
 # timer untuk per 1 spam adalah 60 second
 def countdownTimer(start_minute, start_second):
